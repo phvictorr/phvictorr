@@ -15,14 +15,3 @@
 <a href = "mailto:felipe.victor@aluno.ufop.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-victor-0a8191119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-<!---
-phvictorr/phvictorr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br>
-<div>
-<a href="https://github.com/phvictorr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phvictorr&layout=compact&langs_count=7&theme=white"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phvictorr&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-</div>
