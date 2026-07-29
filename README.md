@@ -114,20 +114,6 @@ I'm not just a dev. I've jumped into some unexpected worlds:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phvictorr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=00C9FF&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phvictorr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=phvictorr&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
