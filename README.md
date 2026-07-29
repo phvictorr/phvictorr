@@ -87,6 +87,8 @@ const phvictorr = {
 
 ---
 
+</div>
+
 ## 🤖 AI Prompt Engineering
 
 > More than just using AI — I *architect* how it thinks.
